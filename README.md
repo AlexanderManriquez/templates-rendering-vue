@@ -1,5 +1,23 @@
-# Vue 3 + Vite
+## Templates y Rendering en Vue
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+En este desafío se aplicaron los conocimientos adquiridos de data binding en Vue JS a través de las directivas, esto con el fin de que a través del formulario de la izquierda se modifiquen los estilos del contenedor de la derecha.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Para lograr esto se utilizaron las siguientes directivas:
+
+Para lograr lo anterior deberás usar las siguientes directivas en donde creas correspondiente:
+
+● :style={}
+
+● :class={}
+
+● v-show
+
+● v-if
+
+● v-for
+
+En este proyecto aplicamos lo aprendido en: HTML, CSS y VueJS.
+
+Para visualizar el resultado final, visita el siguiente enlace:
+
+🔗 https://templates-rendering-vue.vercel.app/
