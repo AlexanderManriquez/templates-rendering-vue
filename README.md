@@ -4,8 +4,6 @@ En este desafío se aplicaron los conocimientos adquiridos de data binding en Vu
 
 Para lograr esto se utilizaron las siguientes directivas:
 
-Para lograr lo anterior deberás usar las siguientes directivas en donde creas correspondiente:
-
 ● :style={}
 
 ● :class={}
