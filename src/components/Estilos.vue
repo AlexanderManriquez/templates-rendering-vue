@@ -79,7 +79,6 @@ export default {
         color: colorTexto,
         borderRadius: border + 'px',
         fontStyle: estiloTexto,
-        opacity: opacidad ? 0.5 : 1,
         fontSize: tamanoLetra 
       }"
     >
@@ -117,7 +116,6 @@ export default {
   display: flex;
   justify-content: center;
   align-items: center;
-  transition: opacity 0.5s ease;
 }
 
 .opacity-low {
